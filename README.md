@@ -3,8 +3,8 @@ Three.js-WebGL-intro
 
 Intro to Three.js/WebGL
 
--Install the workshopper: npm install -g introtowebgl
--Workshop github: https://github.com/alexmackey/IntroToWebGLWithThreeJS
+* Install the workshopper: npm install -g introtowebgl
+* Workshop github: https://github.com/alexmackey/IntroToWebGLWithThreeJS
 
 In the assets folder you will find 3 other folders:
 
