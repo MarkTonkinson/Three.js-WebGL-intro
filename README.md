@@ -3,6 +3,11 @@ Three.js-WebGL-intro
 
 Intro to Three.js/WebGL
 
+Welcome to the world of WebGL & Three.js! 
+
+WebGL is now supported in all major browsers and mobile support is increasing thus making it an excellent choice for developing games, visualizations & cool effects. 
+
+
 * Install the workshopper: npm install -g introtowebgl
 * Workshop github: https://github.com/alexmackey/IntroToWebGLWithThreeJS
 * Run introtowebgl from command line and follow the instructions
