@@ -36,6 +36,6 @@ Examples of whats possible:
 * http://threejs.org/
 * http://chandlerprall.github.io/Physijs/
 
-More about WebGL: http://en.wikipedia.org/wiki/WebGL,
+More about WebGL: http://en.wikipedia.org/wiki/WebGL.
 Interested in creating model definitions and textures with software? Check out: http://www.blender.org/
 
