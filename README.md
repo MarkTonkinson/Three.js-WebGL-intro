@@ -5,6 +5,8 @@ Intro to Three.js/WebGL
 
 * Install the workshopper: npm install -g introtowebgl
 * Workshop github: https://github.com/alexmackey/IntroToWebGLWithThreeJS
+* Run introtowebgl from command line and follow the instructions
+* Play, have fun. See whats possible!
 
 These exercises will introduce you to many of the basics you need to put together something more complex (and interesting!).
 
