@@ -34,3 +34,5 @@ In the assets folder you will find 3 other folders:
  
 Examples of whats possible: http://threejs.org/examples/, http://threejs.org/
 
+More about WebGL: http://en.wikipedia.org/wiki/WebGL
+
