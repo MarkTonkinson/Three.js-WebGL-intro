@@ -32,7 +32,7 @@ In the assets folder you will find 3 other folders:
   * Goose model - a textured 3d model Goose (exercise 5)
   * Game example - simple balancing game using physisjs physics engine
  
-Examples of whats possible: http://threejs.org/examples/, http://threejs.org/
+Examples of whats possible: http://threejs.org/examples/, http://threejs.org/, http://chandlerprall.github.io/Physijs/
 
 More about WebGL: http://en.wikipedia.org/wiki/WebGL
 
