@@ -6,6 +6,18 @@ Intro to Three.js/WebGL
 * Install the workshopper: npm install -g introtowebgl
 * Workshop github: https://github.com/alexmackey/IntroToWebGLWithThreeJS
 
+These exercises will introduce you to many of the basics you need to put together something more complex (and interesting!).
+
+By the end of this workshop you will understand the following:
+
+  * Three.js coordinate system
+  * Primitives such as lighting & materials
+  * How to move the camera and objects
+  * How to resize and rotate objects
+  * How to load a textured 3d model
+  * How to detect mouse clicks on an object
+
+
 In the assets folder you will find 3 other folders:
 
   * Boilerplate App - All three.js scenes require a bit of setup - a scene, camera, lighting & rendering loop. This app sets up a simple scene and is a good template to use for the exercises
