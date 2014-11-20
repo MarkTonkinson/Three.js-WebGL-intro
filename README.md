@@ -12,4 +12,6 @@ In the assets folder you will find 3 other folders:
   * Boilerplate physics - this setups a simple scene & the physics engine physijs (exercise 7)
   * Goose model - a textured 3d model Goose (exercise 5)
   * Game example - simple balancing game using physisjs physics engine
+ 
+Examples of whats possible: http://threejs.org/examples/, http://threejs.org/
 
